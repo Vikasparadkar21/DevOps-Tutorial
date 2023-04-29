@@ -32,6 +32,7 @@ git --version
 
 ```
 
+
 5. Configure your Git username, email & Editor:
 
 ```
