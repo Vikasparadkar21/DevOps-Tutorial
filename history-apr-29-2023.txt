@@ -17,3 +17,4 @@ git switch dev-4567
 history 
 history | cut  -c 8-
 history | cut  -c 8- > history-apr-29-2023.txt
+done
